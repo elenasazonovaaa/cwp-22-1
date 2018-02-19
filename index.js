@@ -21,7 +21,7 @@ module.exports = function(notation) {
            let b = stack.pop();
            if (a === null || b === null)
                return null ;
-            stack.push(operators[token](a, b));
+            stack.push(operators[token](a, b))
         }
         else {
            return null;
