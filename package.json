@@ -1,0 +1,11 @@
+{
+  "name": "@helens/cwp-22-1",
+  "author": "Helen Sazonova",
+  "version": "1.0.0",
+  "description": "Labs project by Helen Sazonova cwp-22-1",
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/elenasazonovaaa/cwp-22-1.git"
+  },
+  "license": "MIT"
+}
